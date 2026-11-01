@@ -3,10 +3,12 @@ services:
     name: lab-02-sqlite-crud
     runtime: node
     plan: free
-    buildCommand: npm install
+    buildCommand: npm install && npm rebuild sqlite3 --build-from-source
     startCommand: node app.js
     envVars:
       - key: NODE_ENV
         value: production
       - key: NODE_VERSION
         value: 20.18.0
+      - key: npm_config_build_from_source
+        value: "true"

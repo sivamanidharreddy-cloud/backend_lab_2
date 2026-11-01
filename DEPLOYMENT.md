@@ -50,7 +50,7 @@ Set the following fields in the Render setup form:
 | **Branch** | `main` | Or your active branch |
 | **Root Directory** | `lab-02` | **Crucial** if your repository contains multiple folders (`lab-01`, `lab-02`) |
 | **Runtime** | `Node` | |
-| **Build Command** | `npm install` | |
+| **Build Command** | `npm install && npm rebuild sqlite3 --build-from-source` | Compiles sqlite3 natively for Render's Linux environment |
 | **Start Command** | `node app.js` | Or `npm start` |
 | **Instance Type** | `Free` | |
 
