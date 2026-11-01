@@ -1,7 +1,7 @@
 # Lab 2: SQLite database and CRUD routes
 
-**Name:** Latchipatruni Charan Teja  
-**Registration Number:** 252U1R8045  
+**Name:** SIVA MANIDHAR REDDY 
+**Registration Number:** 252U1R8076 
 **Class:** B.Tech CSE(QE) – 2B  
 **Section:** S-13 204  
 **GitHub Repository:** [backend_lab_2](https://github.com/sivamanidharreddy-cloud/backend_lab_2)  
