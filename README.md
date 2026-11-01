@@ -6,7 +6,7 @@
 **Section:** S-13 204  
 **GitHub Repository:** [backend_lab_2](https://github.com/sivamanidharreddy-cloud/backend_lab_2)  
 **Deployment Status:** ✅ Successfully Deployed  
-**Deployed Link:** https://backend-lab-2-1-jey7.onrender.com
+**Deployed Link:** https://backend-lab-2-1-jey7.onrender.com/books
        
 11:34:14 AM
        
